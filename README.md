@@ -14,7 +14,6 @@ This mind map outlines the complete feature structure and functional flow of the
 
 ### 🔐 Authentication
 - User Registration & Login  
-- OTP Verification  
 - Password Recovery  
 
 ### 👤 User Dashboard
@@ -29,21 +28,10 @@ This mind map outlines the complete feature structure and functional flow of the
 - Delivery Details  
 - Payment Methods  
 
-### 🛠️ Admin Panel
-- User Management  
-- Delivery Request Monitoring  
-- Settings & Reports  
-
 ### 🏪 Merchant Dashboard
 - Product Listings  
 - Order Management  
 - Earnings Overview  
-
-### 🚚 Driver App
-- Accept/Reject Orders  
-- Navigation to Delivery Locations  
-- Status Updates (Picked, Delivered)  
-
 ---
 
 ## ✅ Purpose of the Mind Map
